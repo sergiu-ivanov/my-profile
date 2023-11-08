@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web applications (mostly back-end) in Java
 - 💞️ I’m looking to collaborate on interesting and challenging projects where I can learn new technologies
 - 🧠 I would like to improve my existing skills and develop new ones by gaining experience in a friendly environment
-- 📫 You can reach me on sergiuivanov90@gmail.com or linkedin.com/in/sergiu-ivanov-0007
+- 📫 You can reach me on sergiuivanov.contact@gmail.com or linkedin.com/in/si-info
 
 <!---
 GreySerj/GreySerj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
